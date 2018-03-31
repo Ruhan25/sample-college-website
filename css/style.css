@@ -1,7 +1,7 @@
 .jumbotron {
     text-align: center;
     background: none;
-    
+
 }
 
 .sectionLight {
@@ -14,7 +14,9 @@ img.brand-logo {
     max-width: 200px;
     width: auto;
 }
-
+.nav-item{
+  padding: 1rem;
+}
 a.nav-link {
     font-size: 1.1rem;
 }
